@@ -16,7 +16,7 @@
 title: Vulcan Academy
 email: duquetteadam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Live code and prosper
+  Live. Code. Prosper.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -24,8 +24,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
 # just-the-docs settings
+theme: just-the-docs
 search_enabled: true
 color_scheme: "dark"
 # theme: minima
