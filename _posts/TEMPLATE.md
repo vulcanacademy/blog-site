@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Setup a Cloud Environment!
+title:  THIS IS A TEMPLATE 
 date:   2019-07-24 21:48:30 -0700
-category: LearnMore WebDev
-author: Adam DuQuette
+category: WHATEVERYOUWANT SPACESEPARATED
+author: YOUR NAME HERE
 published: false
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -33,3 +33,14 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+<!-- Example of how to dynamically populate posts with filtering -->
+<ul>
+  {% for post in site.posts %}
+    {% if post.category contains  page.category %}
+      <li>
+        <span>{{ page.category }} - </span><a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
