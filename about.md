@@ -6,19 +6,25 @@ nav_order: 4
 ---
 
 # Vision
-20/20
+It is our vision to be the premium, go-to learning platform for all beginners and pre-beginners to software development.
 
 ---
 # Mission
-Do cool things.
+We aim to provide high-quality content for those recently - or soon to be! - entering the field of software development. We want to equip those with the necessary knowledge and resources to understand **_what_** kind of software developer then want to be, and **_how_** to achieve that goal.
 
 ---
 # Authors
 
 ### Adam DuQuette
-Driven by an unquenchable appetite for learning and problem solving, Adam obtained a Bachelor of Science in Applied Computer Science from Oregon State University Cascades (OSU-C). While obtaining his education Adam launched OSU-C’s Computer Science Club. He was awarded the Student Organization President of the Year for his efforts launching the club and for his involvement with student leadership on campus.  Adam has worked for pre-launch startups to established tech firms doing work ranging from UI/UX for mobile, web, and desktop, software quality assurance, project planning and implementation, and customer/client service.
+Hello. My name is Adam DuQuette. I am a Developer Learning Engineer at TechSoft 3D and obtained a Bachelor of Science in Applied Computer Science from Oregon State University Cascades (OSU-Cascades). I live a laid back life with my family, dog, and the Portland Timbers always on my mind. 
 
-Adam has been a guest lecturer on the topic of Computer Architecture and Assembly Language at OSU-Cascades. Recently, Adam has been instrumental in the launch of DevStation, a software development boot camp at Central Oregon Community College in Bend, Oregon. When he’s not learning or teaching, Adam is honing his critical thinking and problem solving skills as a keen observer of current affairs and political process.
+I have been fortunate enough to teach Computer Architecture and Assembly Programming Languages at my alam mater, OSU-Cascades. As well, I helped launch a coding bootcamp at Central Oregon Community College as the Lead Instructor, while being a close partner with the Central Oregon branch of Apprenti. During this time I was the Lead Instructor to [Code Fellows][cf-curriculum] courses including: **Code 101**, **201**, **301**, and **401-Advanced JavaScript**.
+
+I want Vulcan Code Academy to be successful because I remember how confusing and chaotic my first steps into software development were. I did not know where to look, or what or who to trust. I hope my experiences, along with my passion for training and education, allow me to ease some of that same confusion and chaos you might be experiencing right now! I'm glad you are here.
+
+Live. Code. Prosper. **_V**
+
+[cf-curriculum]: https://www.codefellows.org/learn-to-code/
 
 ### Calvin Cheng
 Originally from the island of Borneo, Calvin grew up in Canada, where he received a Bachelor of Applied Science degree in Chemical Engineering from the University of British Columbia. Fortunately, for him, he never actually broke into that traditional engineering discipline.
