@@ -6,11 +6,11 @@ nav_order: 4
 ---
 
 # Vision
-It is our vision to be the premium, go-to learning platform for all beginners and pre-beginners to software development.
+Coding is the new literarcy, and our vision is to be the premium, go-to learning platform for beginners and pre-beginners in software development. We are educators passionate about coding and technology literacy for all.  
 
 ---
 # Mission
-We aim to provide high-quality content for those recently - or soon to be! - entering the field of software development. We want to equip those with the necessary knowledge and resources to understand **_what_** kind of software developer then want to be, and **_how_** to achieve that goal.
+We aim to provide high-quality content for those recently - or soon to be! - entering the field of software development. We want to equip those with the necessary knowledge and resources to understand **_what_** kind of software developer they want to be, and **_how_** to achieve that goal.
 
 ---
 # Authors
@@ -27,8 +27,9 @@ Live. Code. Prosper. **_V**
 [cf-curriculum]: https://www.codefellows.org/learn-to-code/
 
 ### Calvin Cheng
-Originally from the island of Borneo, Calvin grew up in Canada, where he received a Bachelor of Applied Science degree in Chemical Engineering from the University of British Columbia. Fortunately, for him, he never actually broke into that traditional engineering discipline.
 
-Prior to the 2001 Dotcom crash, he worked as a Technical Facilitator, teaching web technologies, VB, OOAD, and UML at the Information Technology Institute; a now defunct, but quite innovative and ahead-of-its-time bootcamp-style school. Fast-forward 18 years, and with various roles in technology, including a combined 10-year stint at Amazon, managing an analytics platform for the office of finance - he realized what he loved most about technology was sharing it, teaching it and being the catalyst for people to see and experience its wonder and potential. While most of his past 18 years have been focused on business intelligence, data warehousing, dimensional/data modeling, analytics and reporting, Calvin’s technological interests have come full circle in recent years with an emphasis on modern web development. 
+Prior to the 2001 Dotcom crash, Calvin worked as a Technical Facilitator, teaching web technologies, VB, OOAD, and UML at the Information Technology Institute; a now defunct, but quite innovative and ahead-of-its-time bootcamp-style school. He was educated as a Chemical Engineer from the University of British Columbia, but never actually worked in that field. 
 
-Calvin has an insatiable curiosity for how things work, whether it is technology, people, sports or why he is the only one in his household who knows how to work the TV remotes. In his spare time, he and his wife love enjoying everything Central Oregon has to offer outdoors, as well as the warm and wonderful people who live here. If you have a few hours to spare, ask him about drone racing and how he was a part of a championship race team in 2018.
+Fast-forward 18 years, and with various roles in technology, including a combined 10-year stint at Amazon, managing an analytics platform for the office of finance - he realized what he loved most about technology was sharing it, teaching it and being the catalyst for people to see and experience its potential in their life. While most of his past 18 years have been focused on business intelligence, and data warehousing, Calvin’s technological interests have come full circle in recent years with an emphasis on modern web development. 
+
+Calvin has an insatiable curiosity for how things work, whether it is technology, people, sports or why he is the only one in his household who knows how to work the TV remotes. In his spare time, he and his wife love all that Central Oregon has to offer outdoors, as well as the warm and wonderful people who live here. If you have a few hours to spare, ask him about drone racing and how he was a part of a championship race team in 2018.
