@@ -6,7 +6,7 @@ nav_order: 4
 ---
 
 # Vision
-Coding is the new literarcy, and our vision is to be the premium, go-to learning platform for beginners and pre-beginners in software development. We are educators passionate about coding and technology literacy for all.  
+Coding is the new literacy, and our vision is to be the premium, go-to learning platform for beginners and pre-beginners in software development. We are educators passionate about coding and technology literacy for all.  
 
 ---
 # Mission
