@@ -9,12 +9,12 @@ date:   2019-07-24 21:48:30 -0700
 #               url: vca.netlify.com/work/code/2019/07/24/title-of-post.md
 category: webdev
 # Turn to true and post will publish next build
-published: false
+# published: false
 
 # Created by VCA
 # Use for internal categorizing
 # separated tags by spaces
-tags: WHATEVER_YOU_WANT
+tags: html webdesign
 author: YOUR_NAME_HERE
 ---
 
