@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Vulcan Academy
+title: _Vulcan Academy
 email: duquetteadam@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Live. Code. Prosper.
@@ -31,6 +31,12 @@ color_scheme: "dark"
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
+
+jekyll_analytics:
+  GoogleAnalytics:          # Add, if you want to track with Google Analytics
+    id: UA-144823033-1      # Required - replace with your tracking id
+    anonymizeIp: true      # Optional - Default: false - set to true for anonymized tracking  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
