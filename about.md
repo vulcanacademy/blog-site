@@ -9,7 +9,7 @@ nav_order: 4
 
 [bds-curriculum]: https://www.cocc.edu/departments/continuinged/technology.aspx
 
-<img alt="Vulcan Academy" src="assets/img/va.png" width="20%">
+<img alt="Vulcan Academy" src="./assets/img/va.png" width="20%">
 
 # Vision
 Coding is the new literacy, and our vision is to be the premium, go-to learning platform for beginners and pre-beginners in software development. We are educators passionate about coding and technology literacy for all.  
@@ -23,7 +23,7 @@ We aim to provide high-quality content for those recently - or soon to be! - ent
 
 ## Adam DuQuette
 
-<img alt="Adam DuQuette" src="assets/img/adam.png" width="20%">
+<img alt="Adam DuQuette" src="./assets/img/adam.png" width="20%">
 
 Hello. My name is Adam DuQuette. I am a Developer Learning Engineer at TechSoft 3D and obtained a Bachelor of Science in Applied Computer Science from Oregon State University Cascades (OSU-Cascades). I live a laid back life with my family, dog, and the Portland Timbers always on my mind. 
 
@@ -35,7 +35,7 @@ Live. Code. Prosper. **_V**
 
 ## Calvin Cheng
 
-<img alt="Calvin Cheng" src="assets/img/calvin.png" width="20%">
+<img alt="Calvin Cheng" src="./assets/img/calvin.png" width="20%">
 
 Prior to the 2001 Dotcom crash, Calvin worked as a Technical Facilitator, teaching web technologies, VB, OOAD, and UML at the Information Technology Institute; a now defunct, but quite innovative and ahead-of-its-time bootcamp-style school. He was educated as a Chemical Engineer from the University of British Columbia, but never actually worked in that field. 
 
@@ -47,7 +47,7 @@ Live. Code. Prosper. **_V**
 
 ## Nathaniel Pierce
 
-<img alt="Nathaniel Pierce" src="assets/img/nate.png" width="20%">
+<img alt="Nathaniel Pierce" src="./assets/img/nate.png" width="20%">
 
 Originally from Portland, Oregon, Nathan has lived all over the United States. His grandfather served as a sergeant in the U.S. Army, and passed on the proclivity for frequent travel and relocation. This has afforded him the opportunity to see and meet people from all over the country and walks of life. As a result, his interests are as wide and varied as his experiences; from illustrative art, to music, poetry, sewing, woodworking and permaculture, to antique auto repair, economics, information technology, social psychology, film, skateboarding and much… much… more. In his words, "The common denominator in all of these activities is connection". 
 
